@@ -12,7 +12,6 @@ This application provides a central locking system to track the status of differ
 - Django framework.
 - Django Rest Framework.
 - Django Environ
-- 
 
 ---
 
@@ -23,15 +22,15 @@ This application provides a central locking system to track the status of differ
     ```
 2. Navigate to the project directory:
     ```
-    cd central-locking-system
+    cd CentralLockingSystem
     ```
 3. Install dependencies:
     ```
-      poetry install #you can use the requirements.txt file
+      poetry install #you can use the requirements.txt file but make sure to create a virtual envinrnoment
     ```
-4. Activate the envirnoment:
+4. Activate the environment:
     ```
-      poetry shell
+      poetry shell 
     ```
 5. Run migrations:
     ```
